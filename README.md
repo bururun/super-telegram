@@ -30,3 +30,8 @@ const app = require('./src/index');
 ## License
 
 MIT
+
+
+## Update 6
+
+Latest improvements and bug fixes.
